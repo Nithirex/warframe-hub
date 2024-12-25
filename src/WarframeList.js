@@ -2,7 +2,9 @@ import { Link } from 'react-router-dom/cjs/react-router-dom'
 import warframeinfolist from './info.json'
 
 const WarframeList = () => {
-    warframeinfolist.pop()
+    if (warframeinfolist[warframeinfolist.length - 1].name === "WARFRAME_PLACEHOLDER") {
+        warframeinfolist.pop()
+    }
     return (
         <div className="warframe-list">
             {warframeinfolist.map((warframeinfo) => (

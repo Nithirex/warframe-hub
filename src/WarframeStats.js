@@ -12,7 +12,8 @@ const WarframeStats = () => {
     }
     return (
         <div className="warframe-stats">
-            <h2>{name}{warframeinfo.primed !== "True" && <Link to={"/warframestats/" + name + " Prime"}>{warframeinfo.primed}</Link>}</h2><br /><br />
+            <h2>{name}</h2>
+            {Boolean(warframeinfo.primed) && <Link to={"/warframestats/" + name + " " + warframeinfo.primed}>For {name + warframeinfo.primed}</Link>}<br /><br />
         </div>
     );
 }

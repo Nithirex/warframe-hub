@@ -3,7 +3,7 @@
         "name": "Ash",
         "description": "DESCRIPTION_PLACEHOLDER",
         "aquisition": "AQUISITION_PLACEHOLDER",
-        "primed": " (Prime)",
+        "primed": "Prime",
         "parts": {
             "neuroptics": {
                 "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
@@ -36,7 +36,7 @@
         "name": "Ash Prime",
         "description": "DESCRIPTION_PLACEHOLDER",
         "aquisition": "AQUISITION_PLACEHOLDER",
-        "primed": "True",
+        "primed": false,
         "parts": {
             "neuroptics": {
                 "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
@@ -69,7 +69,7 @@
         "name": "Atlas",
         "description": "DESCRIPTION_PLACEHOLDER",
         "aquisition": "AQUISITION_PLACEHOLDER",
-        "primed": " (Prime)",
+        "primed": "Prime",
         "parts": {
             "neuroptics": {
                 "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
@@ -102,7 +102,7 @@
         "name": "Atlas Prime",
         "description": "DESCRIPTION_PLACEHOLDER",
         "aquisition": "AQUISITION_PLACEHOLDER",
-        "primed": "True",
+        "primed": false,
         "parts": {
             "neuroptics": {
                 "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
@@ -135,7 +135,7 @@
         "name": "Banshee",
         "description": "DESCRIPTION_PLACEHOLDER",
         "aquisition": "AQUISITION_PLACEHOLDER",
-        "primed": " (Prime)",
+        "primed": "Prime",
         "parts": {
             "neuroptics": {
                 "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
@@ -168,7 +168,7 @@
         "name": "Banshee Prime",
         "description": "DESCRIPTION_PLACEHOLDER",
         "aquisition": "AQUISITION_PLACEHOLDER",
-        "primed": "True",
+        "primed": false,
         "parts": {
             "neuroptics": {
                 "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
@@ -201,7 +201,7 @@
         "name": "Baruuk",
         "description": "DESCRIPTION_PLACEHOLDER",
         "aquisition": "AQUISITION_PLACEHOLDER",
-        "primed": " (Prime)",
+        "primed": "Prime",
         "parts": {
             "neuroptics": {
                 "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
@@ -234,7 +234,7 @@
         "name": "Baruuk Prime",
         "description": "DESCRIPTION_PLACEHOLDER",
         "aquisition": "AQUISITION_PLACEHOLDER",
-        "primed": "True",
+        "primed": false,
         "parts": {
             "neuroptics": {
                 "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
@@ -300,7 +300,7 @@
         "name": "Chroma",
         "description": "DESCRIPTION_PLACEHOLDER",
         "aquisition": "AQUISITION_PLACEHOLDER",
-        "primed": " (Prime)",
+        "primed": "Prime",
         "parts": {
             "neuroptics": {
                 "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
@@ -333,7 +333,7 @@
         "name": "Chroma Prime",
         "description": "DESCRIPTION_PLACEHOLDER",
         "aquisition": "AQUISITION_PLACEHOLDER",
-        "primed": "True",
+        "primed": false,
         "parts": {
             "neuroptics": {
                 "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
@@ -498,7 +498,7 @@
         "name": "Ember",
         "description": "DESCRIPTION_PLACEHOLDER",
         "aquisition": "AQUISITION_PLACEHOLDER",
-        "primed": " (Prime)",
+        "primed": "Prime",
         "parts": {
             "neuroptics": {
                 "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
@@ -531,7 +531,7 @@
         "name": "Ember Prime",
         "description": "DESCRIPTION_PLACEHOLDER",
         "aquisition": "AQUISITION_PLACEHOLDER",
-        "primed": "True",
+        "primed": false,
         "parts": {
             "neuroptics": {
                 "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
@@ -564,7 +564,7 @@
         "name": "Equinox",
         "description": "DESCRIPTION_PLACEHOLDER",
         "aquisition": "AQUISITION_PLACEHOLDER",
-        "primed": " (Prime)",
+        "primed": "Prime",
         "parts": {
             "neuroptics": {
                 "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
@@ -597,7 +597,7 @@
         "name": "Equinox Prime",
         "description": "DESCRIPTION_PLACEHOLDER",
         "aquisition": "AQUISITION_PLACEHOLDER",
-        "primed": "True",
+        "primed": false,
         "parts": {
             "neuroptics": {
                 "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
@@ -630,7 +630,7 @@
         "name": "Exalibur",
         "description": "DESCRIPTION_PLACEHOLDER",
         "aquisition": "AQUISITION_PLACEHOLDER",
-        "primed": " (Umbra)",
+        "primed": "Umbra",
         "parts": {
             "neuroptics": {
                 "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
@@ -663,7 +663,7 @@
         "name": "Exalibur Umbra",
         "description": "DESCRIPTION_PLACEHOLDER",
         "aquisition": "AQUISITION_PLACEHOLDER",
-        "primed": "True",
+        "primed": false,
         "parts": {
             "neuroptics": {
                 "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
@@ -696,7 +696,7 @@
         "name": "Frost",
         "description": "DESCRIPTION_PLACEHOLDER",
         "aquisition": "AQUISITION_PLACEHOLDER",
-        "primed": " (Prime)",
+        "primed": "Prime",
         "parts": {
             "neuroptics": {
                 "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
@@ -729,7 +729,7 @@
         "name": "Frost Prime",
         "description": "DESCRIPTION_PLACEHOLDER",
         "aquisition": "AQUISITION_PLACEHOLDER",
-        "primed": "True",
+        "primed": false,
         "parts": {
             "neuroptics": {
                 "aquisition": "PARTS_AQUISITION_PLACEHOLDER",

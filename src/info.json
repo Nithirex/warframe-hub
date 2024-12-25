@@ -1,0 +1,450 @@
+[
+    {
+        "name": "Ash",
+        "description": "DESCRIPTION_PLACEHOLDER",
+        "aquisition": "AQUISITION PLACEHOLDER",
+        "info": "INFO PLACEHOLDER",
+        "materials": [
+            "Neuroptics",
+            "Chassis",
+            "Systems",
+            "WARFRAME OTHER MATERIAL PLACEHOLDER"
+        ],
+        "parts": {
+            "neuroptics": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "chassis": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "systems": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            }
+        }
+    },
+    {
+        "name": "Atlas",
+        "description": "DESCRIPTION_PLACEHOLDER",
+        "aquisition": "AQUISITION PLACEHOLDER",
+        "info": "INFO PLACEHOLDER",
+        "materials": [
+            "Neuroptics",
+            "Chassis",
+            "Systems",
+            "WARFRAME OTHER MATERIAL PLACEHOLDER"
+        ],
+        "parts": {
+            "neuroptics": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "chassis": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "systems": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            }
+        }
+    },
+    {
+        "name": "Banshee",
+        "description": "DESCRIPTION_PLACEHOLDER",
+        "aquisition": "AQUISITION PLACEHOLDER",
+        "info": "INFO PLACEHOLDER",
+        "materials": [
+            "Neuroptics",
+            "Chassis",
+            "Systems",
+            "WARFRAME OTHER MATERIAL PLACEHOLDER"
+        ],
+        "parts": {
+            "neuroptics": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "chassis": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "systems": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            }
+        }
+    },
+    {
+        "name": "Baruuk",
+        "description": "DESCRIPTION_PLACEHOLDER",
+        "aquisition": "AQUISITION PLACEHOLDER",
+        "info": "INFO PLACEHOLDER",
+        "materials": [
+            "Neuroptics",
+            "Chassis",
+            "Systems",
+            "WARFRAME OTHER MATERIAL PLACEHOLDER"
+        ],
+        "parts": {
+            "neuroptics": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "chassis": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "systems": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            }
+        }
+    },
+    {
+        "name": "Caliban",
+        "description": "DESCRIPTION_PLACEHOLDER",
+        "aquisition": "AQUISITION PLACEHOLDER",
+        "info": "INFO PLACEHOLDER",
+        "materials": [
+            "Neuroptics",
+            "Chassis",
+            "Systems",
+            "WARFRAME OTHER MATERIAL PLACEHOLDER"
+        ],
+        "parts": {
+            "neuroptics": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "chassis": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "systems": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            }
+        }
+    },
+    {
+        "name": "Chroma",
+        "description": "DESCRIPTION_PLACEHOLDER",
+        "aquisition": "AQUISITION PLACEHOLDER",
+        "info": "INFO PLACEHOLDER",
+        "materials": [
+            "Neuroptics",
+            "Chassis",
+            "Systems",
+            "WARFRAME OTHER MATERIAL PLACEHOLDER"
+        ],
+        "parts": {
+            "neuroptics": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "chassis": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "systems": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            }
+        }
+    },
+    {
+        "name": "Citrine",
+        "description": "DESCRIPTION_PLACEHOLDER",
+        "aquisition": "AQUISITION PLACEHOLDER",
+        "info": "INFO PLACEHOLDER",
+        "materials": [
+            "Neuroptics",
+            "Chassis",
+            "Systems",
+            "WARFRAME OTHER MATERIAL PLACEHOLDER"
+        ],
+        "parts": {
+            "neuroptics": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "chassis": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "systems": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            }
+        }
+    },
+    {
+        "name": "Dagath",
+        "description": "DESCRIPTION_PLACEHOLDER",
+        "aquisition": "AQUISITION PLACEHOLDER",
+        "info": "INFO PLACEHOLDER",
+        "materials": [
+            "Neuroptics",
+            "Chassis",
+            "Systems",
+            "WARFRAME OTHER MATERIAL PLACEHOLDER"
+        ],
+        "parts": {
+            "neuroptics": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "chassis": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "systems": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            }
+        }
+    },
+    {
+        "name": "Dante",
+        "description": "DESCRIPTION_PLACEHOLDER",
+        "aquisition": "AQUISITION PLACEHOLDER",
+        "info": "INFO PLACEHOLDER",
+        "materials": [
+            "Neuroptics",
+            "Chassis",
+            "Systems",
+            "WARFRAME OTHER MATERIAL PLACEHOLDER"
+        ],
+        "parts": {
+            "neuroptics": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "chassis": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "systems": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            }
+        }
+    },
+    {
+        "name": "Ember",
+        "description": "DESCRIPTION_PLACEHOLDER",
+        "aquisition": "AQUISITION PLACEHOLDER",
+        "info": "INFO PLACEHOLDER",
+        "materials": [
+            "Neuroptics",
+            "Chassis",
+            "Systems",
+            "WARFRAME OTHER MATERIAL PLACEHOLDER"
+        ],
+        "parts": {
+            "neuroptics": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "chassis": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "systems": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            }
+        }
+    },
+    {
+        "name": "Equinox",
+        "description": "DESCRIPTION_PLACEHOLDER",
+        "aquisition": "AQUISITION PLACEHOLDER",
+        "info": "INFO PLACEHOLDER",
+        "materials": [
+            "Neuroptics",
+            "Chassis",
+            "Systems",
+            "WARFRAME OTHER MATERIAL PLACEHOLDER"
+        ],
+        "parts": {
+            "neuroptics": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "chassis": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "systems": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            }
+        }
+    },
+    {
+        "name": "Exalibur",
+        "description": "DESCRIPTION_PLACEHOLDER",
+        "aquisition": "AQUISITION PLACEHOLDER",
+        "info": "INFO PLACEHOLDER",
+        "materials": [
+            "Neuroptics",
+            "Chassis",
+            "Systems",
+            "WARFRAME OTHER MATERIAL PLACEHOLDER"
+        ],
+        "parts": {
+            "neuroptics": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "chassis": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "systems": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            }
+        }
+    },
+    {
+        "name": "Frost",
+        "description": "DESCRIPTION_PLACEHOLDER",
+        "aquisition": "AQUISITION PLACEHOLDER",
+        "info": "INFO PLACEHOLDER",
+        "materials": [
+            "Neuroptics",
+            "Chassis",
+            "Systems",
+            "WARFRAME OTHER MATERIAL PLACEHOLDER"
+        ],
+        "parts": {
+            "neuroptics": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "chassis": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "systems": {
+                "aquisition": "PARTS AQUISITION PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            }
+        }
+    },
+    {
+        "name": "WARFRAME_PLACEHOLDER",
+        "description": "DESCRIPTION_PLACEHOLDER",
+        "aquisition": "AQUISITION_PLACEHOLDER",
+        "info": "INFO_PLACEHOLDER",
+        "materials": [
+            "Neuroptics",
+            "Chassis",
+            "Systems",
+            "WARFRAME OTHER MATERIAL_PLACEHOLDER"
+        ],
+        "parts": {
+            "neuroptics": {
+                "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "chassis": {
+                "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            },
+            "systems": {
+                "aquisition": "PARTS_AQUISITION_PLACEHOLDER",
+                "materials": {
+                    "PARTS_MATERIAL_PLACEHOLDER_NAME": "PARTS_MATERIAL_PLACEHOLDER_NUMBER"
+                }
+            }
+        }
+    }
+]

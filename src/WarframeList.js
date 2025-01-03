@@ -8,11 +8,13 @@ const WarframeList = () => {
     return (
         <div className="warframe-list">
             {warframeinfolist.map((warframeinfo) => (
-                <div className="warframe-info" key={warframeinfo.name}>
-                    <Link to={'/warframestats/' + warframeinfo.name} >
-                        <h2>{warframeinfo.name}</h2>
-                    </Link>
-                </div>
+                ((warframeinfo.primed !== false)
+                    &&
+                    <div className="warframe-info" key={warframeinfo.name}>
+                        <Link to={'/warframestats/' + warframeinfo.name} >
+                            <h2>{warframeinfo.name}</h2>
+                        </Link>
+                    </div>)
             ))}
         </div >
     );

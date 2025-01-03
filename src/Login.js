@@ -5,7 +5,7 @@ const Login = () => {
     const [loggedIn, setLoggedIn] = useState(false)
     var userObject = ""
 
-    const client_id = "71284219954-50i30r7kspmc2p1tqiv2o5nhcs04d4fb.apps.googleusercontent.com"
+    const client_id = process.env.GOOGLE_OAUTH
     function handleCallbackResponse(response) {
         userObject = jwtDecode(response.credential)
         //console.log(userObject)
